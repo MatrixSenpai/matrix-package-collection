@@ -21,6 +21,18 @@
         },
         {
             "url": "https://github.com/sunshinejr/SwiftyUserDefaults"
+        },
+        {
+            "url": "https://github.com/Swinject/Swinject"
+        },
+        {
+            "url": "https://github.com/SnapKit/SnapKit"
+        },
+        {
+            "url": "https://github.com/SwiftyBeaver/SwiftyBeaver"
+        },
+        {
+            "url": "https://github.com/kishikawakatsumi/KeychainAccess"
         }
     ]
 }

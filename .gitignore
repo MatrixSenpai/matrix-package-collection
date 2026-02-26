@@ -1,0 +1,5 @@
+*.cer
+*.pem
+*.csr
+.DS_Store
+.localized
