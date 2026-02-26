@@ -1,0 +1,26 @@
+{
+    "name": "MX Swift Package Collection",
+    "overview": "A collection of commonly used Swift packages for faster development",
+    "author": {
+        "name": "MatrixSenpai <math.matrix@icloud.com>"
+    },
+    "packages": [
+        {
+            "url": "https://github.com/AliSoftware/Reusable",
+            "versions": ["4.1.2"]
+        },
+        {
+            "url": "https://github.com/RxSwiftCommunity/RxDataSources"
+        },
+        {
+            "url": "https://github.com/RxSwiftCommunity/RxFlow",
+            "versions": ["2.13.2"]
+        },
+        {
+            "url": "https://github.com/ReactiveX/RxSwift.git"
+        },
+        {
+            "url": "https://github.com/sunshinejr/SwiftyUserDefaults"
+        }
+    ]
+}
